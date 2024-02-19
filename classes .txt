@@ -1,0 +1,88 @@
+you dont need to remember everything
+walls to tier down 
+confidence
+impostor syndrome
+everyone thinks that others know more than what i know
+learn by doing
+all humans make mistakes
+we are not perfect
+we are not born knowing
+.
+trust ☧ ➕ 
+.
+tier the wall of inactivity
+4 months to tier the wall apart
+highly active
+feeling lazy 
+feeling sleepy
+go sleep and get to work
+practice on your own time
+attentive on the class
+best way to learn is to get involved
+recommend chrome
+sustainable and reliable
+the skeleton is html
+beauty and aesthetics and styling is css
+html building blocks of a house
+css alike a house's paint and features
+.
+a repository is a project
+.
+comment everything you dont want the user to see
+.
+more than one h1
+.
+circle style
+.
+this is not anarchism
+is not anti system
+is the system gone dark
+.
+ill be able to write as much as im living
+.
+the pijeiviour
+the behaviour
+.
+i am sticky
+.
+so many sentences with no substance, not at all
+in the unminding mind the sentences change in nature all the time
+.
+what are you doing bro
+.
+use position sticky for the circle in the body
+.
+debugging
+thedebuggingframework
+identifythetypesofbugs
+therearetypesofbags
+somesystemsareautomatic
+do taskswithoutyouhavingtodoanything
+debugginginvestigateerrosandhowyouresolvethem
+potentiallymissanyclosingtagsordoublequotes
+findingbugsisnotthateasy
+threeyearsofprogramming,developer is a lot of time
+chatgptmakesdebugging really easy
+.
+throughdebugginyoulearntoomanythingsandtoomuchthings
+.
+debugging is twiceashardaswritingthecodeinthefirstplace
+.
+bug=error
+bug,isitbackendorfrontend
+iscodingerrororservererror
+.
+marcuscollinson
+maxfreyne
+.
+
+alwaysbeclosingtagswhencoding
+useacodeformatter(prettier)
+.
+git add .
+git commit
+git pull origin main(nameofbranch)
+git push origin main(nameofbranch)
+.
+
+

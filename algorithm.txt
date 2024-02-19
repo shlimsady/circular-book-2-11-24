@@ -1,0 +1,36 @@
+Certainly! Here's the algorithm for the last code:
+
+1. **Initialization**:
+   - Determine the folder path where the script is located.
+   - Create an instance of the TextOrganizer class.
+
+2. **Reading Text Files**:
+   - Recursively traverse through the specified folder and its subdirectories.
+   - For each .txt file encountered, read its contents line by line.
+   - Store all lines from all text files in a list.
+
+3. **Filtering Lines (Optional)**:
+   - If the user provides a keyword, filter the lines to include only those containing the keyword.
+   - Store the filtered lines in a separate list.
+
+4. **Selecting a Random Line**:
+   - If filtered lines exist, randomly select a line from the filtered list.
+   - If no filtered lines exist, randomly select a line from the list containing all lines from text files.
+
+5. **Presenting the Randomly Selected Line**:
+   - Print the randomly selected line to the user.
+
+6. **User Interaction**:
+   - Wait for user input.
+   - If the user types 'y', add the previous line to the composition (if applicable), update the previous line, and reset the keyword.
+   - If the user types 'n', discard the previous line and reset the keyword.
+   - If the user types any other keyword, use it as a filter for the next random line.
+
+7. **Composition Completion**:
+   - Continuously repeat steps 3-6 without terminating the program until the user decides to stop.
+
+8. **Loop Continuation**:
+   - Instead of terminating the loop when the user decides to include a line in the composition, continue the loop and select a new random line.
+   - Prompt the user to type 'y' or 'n' to indicate whether to include or discard the current line, or to input a keyword for filtering.
+
+I'm glad I could assist you! If you have any more questions or need further assistance, feel free to ask.
